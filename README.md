@@ -1,5 +1,1 @@
-# JavaScript
-
-Praticando manipulação DOM com o projeto ROBOTRON
-
-Practicing DOM manipulation with ROBOTRON project
+# robotron-2000
