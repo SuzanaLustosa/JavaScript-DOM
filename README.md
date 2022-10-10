@@ -1,5 +1,5 @@
 # JavaScript
 
-Praticando manipulação DOM com o projeto ROBOTROM
+Praticando manipulação DOM com o projeto ROBOTRON
 
-Practicing DOM manipulation with ROBOTROM project
+Practicing DOM manipulation with ROBOTRON project
